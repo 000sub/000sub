@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=000sub&count_private=true&layout=compact&theme=dark)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dt2980)](https://solved.ac/dt2980)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dt2980)](https://solved.ac/dt2980)
