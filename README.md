@@ -20,7 +20,8 @@ Hi, I'm Youngseop Shin (신영섭), a backend software engineer dedicated to mas
   - Overall GPA: 4.32 / 4.5
   - B.S. in Software (4.42 / 4.5)
   - B.S. in Applied Artificial Intelligence (4.4 / 4.5)
- 
+
+### 👯 Experience
   - Undergraduate Interns in SoftSec Lab (Prof. Sungjae Hwang)
     - 2022-2023
     - studied decentralized finance frauds activated via smart contracts
