@@ -7,7 +7,7 @@ Hi, I'm Youngseop Shin (신영섭), a backend software engineer dedicated to mas
 - Frontend: `React`, `NextJS`
 - Backend: `Spring`, `NestJS`, `Axum`
 
-### 🌱 Projects
+### 🌱 Ongoing Projects
 
 - [GrabTable](https://github.com/GrabTable/GrabTable/) (2024.03 - present)
   - Restuarant Reservation Service (Specialized in Group Reservation)
