@@ -11,20 +11,20 @@ Hi, I'm Youngseop Shin (신영섭), a backend software engineer dedicated to mas
 
 - [GrabTable](https://github.com/GrabTable/GrabTable/) (2024.03 - present)
   - Restuarant Reservation Service (Specialized in Group Reservation)
-  - Currently we're looking for new passionate member!
+  - Currently we're looking for new passionate member! Feel free to contact us 😄
 ![image](https://github.com/000sub/000sub/assets/85350805/bbd0b9e8-3b85-4458-9116-5bca76e39e71)
 
 
 ### 🎓 Education
 - Sungkyunkwan University
-  - Overall GPA: 4.32 / 4.5
+  - Overall GPA: 4.34 / 4.5
   - B.S. in Software (4.42 / 4.5)
   - B.S. in Applied Artificial Intelligence (4.4 / 4.5)
 
 ### 👯 Experience
   - Undergraduate Interns in SoftSec Lab (Prof. Sungjae Hwang)
     - 2022-2023
-    - studied decentralized finance frauds activated via smart contracts
+    - studied decentralized finance frauds activated via EVM-compatible smart contracts
 
 ### 📫 Contact
 - seop1208@gmail.com
