@@ -22,9 +22,14 @@ Hi, I'm Youngseop Shin (신영섭), a backend software engineer dedicated to mas
   - B.S. in Applied Artificial Intelligence (4.4 / 4.5)
 
 ### 👯 Experience
-  - Undergraduate Interns in SoftSec Lab (Prof. Sungjae Hwang)
-    - 2022-2023
-    - studied decentralized finance frauds activated via EVM-compatible smart contracts
+- Undergraduate Interns in SoftSec Lab (Prof. Sungjae Hwang)
+  - 2022-2023
+  - studied decentralized finance frauds activated via EVM-compatible smart contracts
+   
+### 📄 Certification
+<a href="https://www.credly.com/badges/8870ee91-087a-457f-a31f-4c0feefe817e">
+<img src="https://github.com/user-attachments/assets/803bb84f-7afa-4400-92f2-a9f42971c42f" alt="CKA" width="100" height="100">
+</a>
 
 ### 📫 Contact
 - seop1208@gmail.com
