@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Youngseop Shin (신영섭), a backend software engineer dedicated to mastering the art of building large system architectures.
+Hi, I'm a backend software engineer dedicated to mastering the art of building large system architectures.
 
 ### ⚡ Skills
 - Language: `Java`, `Typescript`, `Python`, `C`, `Solidity`, `Rust`
@@ -16,13 +16,12 @@ Hi, I'm Youngseop Shin (신영섭), a backend software engineer dedicated to mas
 
 
 ### 🎓 Education
-- Sungkyunkwan University
   - Overall GPA: 4.34 / 4.5
   - B.S. in Software (4.42 / 4.5)
   - B.S. in Applied Artificial Intelligence (4.4 / 4.5)
 
 ### 👯 Experience
-- Undergraduate Interns in SoftSec Lab (Prof. Sungjae Hwang)
+- Undergraduate Interns in SoftSec Lab
   - 2022-2023
   - studied decentralized finance frauds activated via EVM-compatible smart contracts
    
