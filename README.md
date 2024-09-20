@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-Hi, I'm a backend software engineer dedicated to mastering the art of building large system architectures.
+Hi, I'm Youngseop Shin, dedicated to be a passionate backend developer.
 
 ### ⚡ Skills
-- Language: `Java`, `Typescript`, `Python`, `C`, `Solidity`, `Rust`
-- Frontend: `React`, `NextJS`
-- Backend: `Spring`, `NestJS`, `Axum`
+- Language: `Java`, `C/C++`, `Javascript`, `Typescript`
+- Framework: `Springboot`, `NestJS`, `React`
+- ORM: `JPA/Hibernate`, `Prisma`
+- Database: `MySQL`, `Redis`
+- Tool: `Grafana K6`
 
-### 🌱 Ongoing Projects
+### ⚡ Interested in
+- Database: `MongoDB`
+- Distributed Systems: `Kafka`, `Kubernetes`
 
-- [GrabTable](https://github.com/GrabTable/GrabTable/) (2024.03 - present)
+### 🌱 Projects
+- [GrabTable](https://github.com/GrabTable/GrabTable/) (2024.03 - 2024.07 submitted for Capstone (Ongoing) )
   - Restuarant Reservation Service (Specialized in Group Reservation)
-  - Currently we're looking for new passionate member! Feel free to contact us 😄
 ![image](https://github.com/000sub/000sub/assets/85350805/bbd0b9e8-3b85-4458-9116-5bca76e39e71)
 
 
